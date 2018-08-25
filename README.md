@@ -49,7 +49,7 @@ Check the [Changelog.md](https://github.com/zoran/docker-java10-sjre/blob/master
 ---
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/zoran/docker-java10-sjre/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/zoran/docker-java10-sjre/blob/master/LICENSE.txt) file for details
 
 ---
 
