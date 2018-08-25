@@ -46,6 +46,8 @@ Check the [Changelog.md](https://github.com/zoran/docker-java10-sjre/blob/master
 ### Authors
 * **Zoran Kikic** - [zoran](https://github.com/zoran)
 
+---
+
 ### License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/zoran/docker-java10-sjre/blob/master/LICENSE.md) file for details
 
