@@ -8,19 +8,19 @@
 
 ### Usage / Examples
 
-#### Pull the latest stable Server JRE version
+#### Pull the latest stable Server JRE 10 version
 ```
 docker pull zoran/java10-sjre
 ```
 
-#### Run the latest stable Server JRE version
+#### Run the latest stable Server JRE 10 version
 ```
 docker run -it --rm zoran/java10-sjre java -version
 ```
 
-#### Run a specific Server JRE version (official full version string: 10.0.2+13)
+#### Run a specific Server JRE 10 version (official full version string scheme 10.0.2+13)
 ```
-docker run -it --rm zoran/java10-sjre:10.0.2p13 java -version
+docker run -it --rm zoran/java10-sjre:10.0.2b13 java -version
 ```
 
 #### Use it as a Java basis in your Dockerfile
