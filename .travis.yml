@@ -1,0 +1,13 @@
+sudo: required
+
+language: c
+
+services:
+  - docker
+
+before_install:
+  - docker info
+  - docker build --tag zoran/java10-sjre .
+
+script:
+- docker run -it --rm zoran/java10-sjre java -version
