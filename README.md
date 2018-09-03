@@ -1,6 +1,7 @@
 ## Slim Docker image based on AlpineLinux with latest stable Oracle Java 10 Server JRE
 
 [![Build Status](https://travis-ci.org/zoran/docker-java10-sjre.svg?branch=master)](https://travis-ci.org/zoran/docker-java10-sjre)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![](https://images.microbadger.com/badges/image/zoran/java10-sjre:latest.svg)](https://microbadger.com/images/zoran/java10-sjre:latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/zoran/java10-sjre.svg?style=round-square)](https://hub.docker.com/r/zoran/java10-sjre/)
 
